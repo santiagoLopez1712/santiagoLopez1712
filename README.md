@@ -56,7 +56,7 @@ Willkommen auf meinem Profil! Ich bin ein Entwickler, der sich leidenschaftlich 
 ## 🌟 Projekt-Highlights
 
 - [SemiKolon Webseite Projekt](https://github.com/onurozdemir35/Semikolon_Bibliothek) – Webanwendung für eine fiktive Bibliothek mit HTML, CSS, JavaScript und PHP
-- [ToDo App Projekt](https://github.com/onurozdemir35/HsH-KI) – Einfache Aufgabenverwaltung mit React und Zustand
+- [ToDo App Projekt](https://github.com/santiagoLopez1712/agent_project_with_gradio) – Einfache Aufgabenverwaltung mit React und Zustand
 - [Data Science Projekte](https://github.com/onurozdemir35/Data-Science-Projects) – Anwendungen mit maschinellem Lernen und Deep Learning
 
 ---
