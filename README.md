@@ -4,7 +4,7 @@
 
 Willkommen auf meinem Profil! Ich bin ein Entwickler, der sich leidenschaftlich für datengetriebene Projekte interessiert, gerne lernt und sein Wissen mit anderen teilt. Ich liebe es, durch Code Erkenntnisse zu gewinnen, Probleme zu lösen und im Team zu wachsen.
 
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-lopez-otalvaro-a129ba336/)
 [![E-Mail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:slopezotalvaro1712@gmail.com)
 
 ---
@@ -71,6 +71,7 @@ Willkommen auf meinem Profil! Ich bin ein Entwickler, der sich leidenschaftlich 
 ## 🤝 Kontakt
 Bei Interesse an Projekten oder Kooperationen können Sie mich gerne kontaktieren:
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/santiago-lopez-otalvaro-a129ba336/)
 [![E-Mail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:slopezotalvaro1712@gmail.com)
 
 ---
